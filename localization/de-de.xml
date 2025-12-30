@@ -317,7 +317,7 @@ Notiz an weitere Kollegen:      Bitte die Struktur beibehalten wie vorgefunden, 
             <Part Id="PART_BODY" String="Körper"/>
             <Part Id="PART_UPPER_BODY" String="Oberkörper"/>
             <Part Id="PART_REAR" String="Rücken"/>
-			<Part Id="PART__POWER_UNIT" String="Hintere Antriebseinheit" />
+			<Part Id="PART_REAR_POWER_UNIT" String="Hintere Antriebseinheit" />
             <Part Id="PART_LOWER_BODY" String="Unterkörper"/>
             <Part Id="PART_UPPER_BACK" String="Oberer Rücken"/>
             <Part Id="PART_LOWER_BACK" String="Unterer Rücken"/>
