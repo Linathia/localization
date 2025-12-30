@@ -1040,6 +1040,8 @@
                   String="GOG Mat. Neck" />
             <Part Id="PART_GOG_R_WINGARM"
                   String="GOG Mat. Right Wingarm" />
+			<Part Id="PART_GOG_L_WINGARM"
+                  String="GOG Mat. Left Wingarm" />
             <Part Id="PART_GOG_TAIL_TIP"
                   String="GOG Mat. Tail Tip" />
             <Part Id="PART_GOG_TAIL"
