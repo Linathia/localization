@@ -1052,6 +1052,8 @@
                   String="GOG Mat. Tail" />
             <Part Id="PART_GOG_BACK"
                   String="GOG Mat. Back" />
+            <Part Id="PART_BACK_CANNON"
+                  String="Back (Elderbreaker)" />			
             <Part Id="PART_L_WINGARM_FLINCH_PHASE1"
                   String="Left Wingarm Flich Phase 1" />
             <Part Id="PART_R_WINGARM_FLINCH_PHASE1"
