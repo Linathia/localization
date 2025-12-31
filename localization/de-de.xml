@@ -566,6 +566,7 @@ Notiz an weitere Kollegen:      Bitte die Struktur beibehalten wie vorgefunden, 
             <Part Id="PART_R_FORELEG_RF_HR_SAND" String="HR Vorderbein (R,Sand)" />
             <Part Id="PART_SUPERHEAT_LR" String="NR Superhitze Schwelle" />
             <Part Id="PART_SUPERHEAT_HR" String="HR Superhitze Schwelle" />
+			<Part Id="PART_SUPERHEAT_GHR" String="G-HR Superhitze Schwelle" />
             <Part Id="PART_FRENZY_HR" String="HR Raserei Schwelle" />
             <Part Id="PART_FRENZY_THR" String="G-HR Raserei Schwelle" />
             <Part Id="PART_AT_ZONE_CHANGE" String="Zonenwechsel (Kampfgeh.)" />
