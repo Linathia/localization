@@ -1118,6 +1118,8 @@
                   String="LR Superheat" />
             <Part Id="PART_SUPERHEAT_HR"
                   String="HR Superheat" />
+			<Part Id="PART_SUPERHEAT_GHR"
+				  String="GHR Superheat" />
 			<Part Id="PART_FRENZY_HR"
 				  String="HR Frenzy Treshold" />
 			<Part Id="PART_FRENZY_THR"
